@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(84,12): warning C4552: "-": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(87,12): warning C4552: "+": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(115,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(118,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(121,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(124,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(127,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(130,12): warning C4552: "*": результат выражения не используется
+D:\всё по C и С++\Calories_2.0\Calories_2.0\main.cpp(133,12): warning C4552: "*": результат выражения не используется
+  Calories_2.0.vcxproj -> D:\всё по C и С++\Calories_2.0\Debug\Calories_2.0.exe
